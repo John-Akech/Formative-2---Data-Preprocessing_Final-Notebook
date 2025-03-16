@@ -23,8 +23,6 @@ This project was developed by **Group 17**:
 5. [Workflow Breakdown](#workflow-breakdown)  
 6. [Outputs](#outputs)  
 7. [Challenges & Solutions](#challenges-&-solutions)  
-8. [License](#license)  
-9. [Contact](#contact)  
 
 ---
 
@@ -160,18 +158,6 @@ Go step by step:
 **Problem**: The `review_sentiment` column was unstructured.  
 **Fix**: Used **TF-IDF** to convert text into numerical features.  
 
----
-
-## 📜 **License**  
-This project is licensed under the **MIT License**. Feel free to use, modify, and share it.  
-
----
-
-## 📧 **Contact**  
-For questions or collaboration, reach out to:  
-📩 **John Akech**: [Your Email Here]  
-📩 **Geu Aguto Garang**: [Your Email Here]  
-📩 **Kuir Juach Kuir Thuch**: [Your Email Here]  
 
 ---
 
