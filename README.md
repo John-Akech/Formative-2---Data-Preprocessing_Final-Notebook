@@ -1,13 +1,3 @@
-Here’s a humanized and copy-friendly version of your README message:  
-
----
-
-Hey team! 🎉  
-
-Here’s the final **`README.md`** for our project. It’s structured to make everything clear—whether you’re setting up, running the code, or just trying to understand our workflow.  
-
----
-
 # **Data Preprocessing and Augmentation Project**  
 
 ## **Overview**  
