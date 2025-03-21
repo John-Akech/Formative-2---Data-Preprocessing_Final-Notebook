@@ -54,8 +54,8 @@ Make sure these files are in the same directory as our code!
 If the project is on GitHub, use:  
 
 ```bash
-git clone https://github.com/John-Akech/Formative-2-Data-Preprocessing_Final-Notebook.git
-cd Formative-2-Data-Preprocessing_Final-Notebook
+git clone git@github.com:John-Akech/Formative-2---Data-Preprocessing_Final-Notebook.git
+cd Formative-2---Data-Preprocessing_Final-Notebook
 ```  
 
 Or download and place the files in your working directory.  
@@ -88,8 +88,7 @@ Go step by step:
 
 ```
 ├── README.md                     # This file  
-├── Formative_2_Data_Preprocessing.ipynb  # Notebook version  
-├── main.py                        # Script version  
+├── Formative 2 - Data Preprocessing.ipynb  # Notebook version  
 ├── data_files/                    # Input datasets  
 │   ├── customer_transactions.csv  
 │   ├── customer_social_profiles.csv  
