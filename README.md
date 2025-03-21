@@ -154,7 +154,7 @@ Go step by step:
 **Fix**: Used **SMOTE** to generate synthetic samples.  
 
 ### 🔹 **Challenge 4: Handling Text Data**  
-**Problem**: The review_sentiment column was unstructured.  
+**Problem**: The `review_sentiment` column was unstructured.  
 **Fix**: Used **TF-IDF** to convert text into numerical features.  
 
 
