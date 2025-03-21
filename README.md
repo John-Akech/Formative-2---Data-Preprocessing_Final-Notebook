@@ -159,6 +159,9 @@ Go step by step:
 
 
 ---
+## Link to the document
+https://docs.google.com/document/d/1qVSzrf4EURcb70Q8l0yFbcwcxnhPrxBjsKNB7dnXILY/edit?usp=sharing
+
 ## Link to The Demo Video
 https://youtu.be/qhOA0M7a1kU
 
